@@ -1,0 +1,188 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the auto KSP instance",
+	"name": "installed-auto",
+	"license": "unknown",
+	"version": "2018.11.28.01.25.17",
+	"identifier": "installed-auto",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "KerbalEngineerRedux"
+		},
+		{
+			"name": "NearFutureProps"
+		},
+		{
+			"name": "StationPartsExpansionRedux"
+		},
+		{
+			"name": "B9PartSwitch"
+		},
+		{
+			"name": "CommunityTechTree"
+		},
+		{
+			"name": "HideEmptyTechNodes"
+		},
+		{
+			"name": "NearFutureConstruction"
+		},
+		{
+			"name": "NearFutureElectrical"
+		},
+		{
+			"name": "NearFutureElectrical-Core"
+		},
+		{
+			"name": "NearFutureElectrical-DecayingRTGs"
+		},
+		{
+			"name": "NearFutureLaunchVehicles"
+		},
+		{
+			"name": "NearFuturePropulsion"
+		},
+		{
+			"name": "NearFuturePropulsion-LowThrustEP"
+		},
+		{
+			"name": "NearFutureSolar"
+		},
+		{
+			"name": "NearFutureSolar-Core"
+		},
+		{
+			"name": "NearFutureSpacecraft"
+		},
+		{
+			"name": "OuterPlanetsMod"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "DynamicBatteryStorage"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "CommunityTerrainTexturePack"
+		},
+		{
+			"name": "xScience"
+		},
+		{
+			"name": "ScienceAlert"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "StageRecovery"
+		},
+		{
+			"name": "ContractsWindowPlus"
+		},
+		{
+			"name": "DistantObject"
+		},
+		{
+			"name": "DistantObject-default"
+		},
+		{
+			"name": "KerbalAlarmClock"
+		},
+		{
+			"name": "NavballDockAlignIndCE"
+		},
+		{
+			"name": "PlanetShine"
+		},
+		{
+			"name": "SCANsat"
+		},
+		{
+			"name": "TransferWindowPlanner"
+		},
+		{
+			"name": "LoadingScreenManager"
+		},
+		{
+			"name": "TriggerAu-Flags"
+		},
+		{
+			"name": "Toolbar"
+		},
+		{
+			"name": "ContractConfigurator"
+		},
+		{
+			"name": "ProgressParser"
+		},
+		{
+			"name": "ContractParser"
+		},
+		{
+			"name": "PlanetShine-Config-Default"
+		},
+		{
+			"name": "AstronomersVisualPack"
+		},
+		{
+			"name": "AVP-2kTextures"
+		},
+		{
+			"name": "DMagicOrbitalScience"
+		},
+		{
+			"name": "USI-Core"
+		},
+		{
+			"name": "USI-LS"
+		},
+		{
+			"name": "USITools"
+		},
+		{
+			"name": "WernherCheckerContinued"
+		},
+		{
+			"name": "UniversalStorage"
+		},
+		{
+			"name": "EnvironmentalVisualEnhancements"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "Scatterer-sunflare"
+		},
+		{
+			"name": "Scatterer-config"
+		},
+		{
+			"name": "TextureReplacer"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "CommunityCategoryKit"
+		},
+		{
+			"name": "KerbalPlanetaryBaseSystems"
+		}
+	]
+}
